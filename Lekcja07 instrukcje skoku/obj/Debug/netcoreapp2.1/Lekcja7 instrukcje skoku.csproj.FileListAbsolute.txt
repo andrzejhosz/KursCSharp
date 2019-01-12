@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\bin\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\bin\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\bin\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\bin\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\bin\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja7 instrukcje skoku\obj\Debug\netcoreapp2.1\Lekcja7 instrukcje skoku.pdb

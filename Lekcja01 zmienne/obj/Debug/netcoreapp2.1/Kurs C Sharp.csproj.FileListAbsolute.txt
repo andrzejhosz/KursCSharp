@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\bin\Debug\netcoreapp2.1\Kurs C Sharp.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\bin\Debug\netcoreapp2.1\Kurs C Sharp.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\bin\Debug\netcoreapp2.1\Kurs C Sharp.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\bin\Debug\netcoreapp2.1\Kurs C Sharp.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\bin\Debug\netcoreapp2.1\Kurs C Sharp.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Kurs C Sharp\obj\Debug\netcoreapp2.1\Kurs C Sharp.pdb

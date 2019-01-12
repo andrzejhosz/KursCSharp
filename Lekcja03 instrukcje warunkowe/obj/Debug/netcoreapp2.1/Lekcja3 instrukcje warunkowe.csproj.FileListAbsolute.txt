@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\bin\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\bin\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\bin\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\bin\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\bin\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja 3 instrukcje warunkowe\obj\Debug\netcoreapp2.1\Lekcja3 instrukcje warunkowe.pdb

@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\bin\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\bin\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\bin\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\bin\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\bin\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja 8 instrukcja switch\obj\Debug\netcoreapp2.1\Lekcja8 instrukcja switch.pdb
