@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\bin\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\bin\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\bin\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\bin\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\bin\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja5 Kowersje,rzutowanie\obj\Debug\netcoreapp2.1\Lekcja5 konwersje,rzutowanie.pdb

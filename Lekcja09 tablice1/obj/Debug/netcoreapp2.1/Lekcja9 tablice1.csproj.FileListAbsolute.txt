@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\bin\Debug\netcoreapp2.1\Lekcja9 tablice1.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\bin\Debug\netcoreapp2.1\Lekcja9 tablice1.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\bin\Debug\netcoreapp2.1\Lekcja9 tablice1.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\bin\Debug\netcoreapp2.1\Lekcja9 tablice1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\bin\Debug\netcoreapp2.1\Lekcja9 tablice1.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja9 tablice1\obj\Debug\netcoreapp2.1\Lekcja9 tablice1.pdb

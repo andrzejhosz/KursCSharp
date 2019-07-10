@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\bin\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\bin\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\bin\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\bin\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\bin\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja14 klasy,obiekty1\obj\Debug\netcoreapp2.1\Lekcja14 klasy,obiekty1.pdb

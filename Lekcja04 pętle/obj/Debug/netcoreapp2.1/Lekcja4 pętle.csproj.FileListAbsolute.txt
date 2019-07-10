@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\bin\Debug\netcoreapp2.1\Lekcja4 pętle.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\bin\Debug\netcoreapp2.1\Lekcja4 pętle.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\bin\Debug\netcoreapp2.1\Lekcja4 pętle.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\bin\Debug\netcoreapp2.1\Lekcja4 pętle.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\bin\Debug\netcoreapp2.1\Lekcja4 pętle.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.dll
+C:\Users\OrtoVinci\Desktop\Kurs\Kurs C Sharp\Lekcja4 pętle\obj\Debug\netcoreapp2.1\Lekcja4 pętle.pdb

@@ -1,0 +1,10 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\bin\Debug\netcoreapp2.1\Lekcja21 list.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\bin\Debug\netcoreapp2.1\Lekcja21 list.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\bin\Debug\netcoreapp2.1\Lekcja21 list.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\bin\Debug\netcoreapp2.1\Lekcja21 list.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\bin\Debug\netcoreapp2.1\Lekcja21 list.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\obj\Debug\netcoreapp2.1\Lekcja21 list.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\obj\Debug\netcoreapp2.1\Lekcja21 list.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\obj\Debug\netcoreapp2.1\Lekcja21 list.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\obj\Debug\netcoreapp2.1\Lekcja21 list.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja21 list\obj\Debug\netcoreapp2.1\Lekcja21 list.pdb

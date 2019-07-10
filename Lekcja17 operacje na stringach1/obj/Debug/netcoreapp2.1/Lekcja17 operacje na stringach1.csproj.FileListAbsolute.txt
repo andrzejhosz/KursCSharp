@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\bin\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\bin\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\bin\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\bin\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\bin\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja17 operacje na stringach1\obj\Debug\netcoreapp2.1\Lekcja17 operacje na stringach1.pdb

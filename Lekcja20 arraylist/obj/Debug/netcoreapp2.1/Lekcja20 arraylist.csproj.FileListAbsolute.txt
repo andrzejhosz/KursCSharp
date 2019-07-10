@@ -1,0 +1,11 @@
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.csproj.CoreCompileInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.AssemblyInfoInputs.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.AssemblyInfo.cs
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\bin\Debug\netcoreapp2.1\Lekcja20 arraylist.deps.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\bin\Debug\netcoreapp2.1\Lekcja20 arraylist.runtimeconfig.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\bin\Debug\netcoreapp2.1\Lekcja20 arraylist.runtimeconfig.dev.json
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\bin\Debug\netcoreapp2.1\Lekcja20 arraylist.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\bin\Debug\netcoreapp2.1\Lekcja20 arraylist.pdb
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.csprojAssemblyReference.cache
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.dll
+C:\Users\OrtoVinci\Desktop\Kurs\KursCSharp\Lekcja20 arraylist\obj\Debug\netcoreapp2.1\Lekcja20 arraylist.pdb
